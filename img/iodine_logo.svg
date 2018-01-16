@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="iodine_logo.svg">
+   sodipodi:docname="iodine_logo.svg"
+   inkscape:export-filename="/Users/spencerfox/projects/websites/iodine-netsci/static/img/iodine_logo.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs4">
     <marker
@@ -41,8 +44,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70259134"
-     inkscape:cx="139.12544"
+     inkscape:zoom="0.59189909"
+     inkscape:cx="110.18428"
      inkscape:cy="168.38587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -64,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,6 +76,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-106.92656,-379.81367)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.08900023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4152"
+       width="473.25732"
+       height="473.25732"
+       x="109.47106"
+       y="382.35815"
+       ry="69.741829" />
     <g
        id="g4576"
        transform="translate(56.000001,-15.710807)">
@@ -132,13 +143,5 @@
            r="24.164173" />
       </g>
     </g>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.08900023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4152"
-       width="473.25732"
-       height="473.25732"
-       x="109.47106"
-       y="382.35815"
-       ry="69.741829" />
   </g>
 </svg>
