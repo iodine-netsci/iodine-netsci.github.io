@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NetSci2018</title>
+    <title>Iodine</title>
     <link>https://iodine-netsci.github.io/index.xml</link>
-    <description>Recent content on NetSci2018</description>
+    <description>Recent content on Iodine</description>
     <generator>Hugo -- gohugo.io</generator>
     <atom:link href="https://iodine-netsci.github.io/index.xml" rel="self" type="application/rss+xml" />
     
